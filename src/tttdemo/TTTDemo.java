@@ -7,6 +7,8 @@ package tttdemo;
  */
 public class TTTDemo {
     private int x;
+    private int y;
+    private int z;
 
     public TTTDemo(int x) {
         this.x = x;
